@@ -1,8 +1,4 @@
-*.png
 *.xcf
-*.ico
-*.TTF
-*.txt
 *.bat
 *config
 *description
