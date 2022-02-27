@@ -1,0 +1,12 @@
+*.png
+*.xcf
+*.ico
+*.TTF
+*.txt
+*.bat
+*config
+*description
+*HEAD
+*love/
+*hooks/
+*info/
